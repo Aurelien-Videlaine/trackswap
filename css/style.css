@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&family=Source+Serif+4:wght@200;400;700&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/btn-violet.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+	font-family: "Roboto", sans-serif;
+	font-weight: 500;
+	font-size: 18px;
+	margin: 0px;
+}
+
+h1, h2, h3 {
+	font-family: "Source Serif 4", serif;
+	font-weight: 700;
+	font-size: 30px;
+}
+
+h1 {
+    margin-bottom: 15px; /* Space below heading */
+}
+
+p {
+    line-height: 1.6; /* Better readability */
+}

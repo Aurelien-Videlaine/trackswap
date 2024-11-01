@@ -1,0 +1,15 @@
+.btn-violet {
+	background-color: #6A5ACD;
+	padding: 15px 20px;
+	border-radius: 20px;
+	color: #FFFFFF;
+	font-weight: bold;
+	text-decoration: none; 
+	display: inline-block; 
+	transition: background-color 0.3s ease; 
+}
+
+.btn-violet:hover {
+	background-color: #8A2BE2;
+	 transform: scale(1.05); 
+}
